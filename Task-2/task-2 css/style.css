@@ -1,78 +1,77 @@
-body{
-    background-color: rgb(39, 13, 14);
-    margin: 0px;
+body {
+  background-color: #301b1a;
+  margin: 0px;
 }
 .nav__bar {
-    background-color: black;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  background-color: #533261;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.nav__logo{
-    display: flex;
+.nav__logo {
+  display: flex;
 }
 .logo {
-    width: 50px;
-    height: 50px;
-    padding-left: 10px;
-    padding-top: 10px; 
+  width: 50px;
+  height: 50px;
+  padding-left: 10px;
+  padding-top: 10px;
 }
-.nav__logo h4{
-    color: #fff;
-    padding-left: 15px;
-    font-size: large;
-    padding-top: 5px;
+.nav__logo h4 {
+  color: #fff;
+  padding-left: 15px;
+  font-size: large;
+  padding-top: 5px;
 }
-.nav__items{
-    display: inline;
-    padding: 0 20px;
-    font-size: large;
+.nav__items {
+  display: inline;
+  padding: 0 20px;
+  font-size: large;
 }
-.nav__items a{
-    text-decoration: none;
-    text-align: center;
-    color: #fff;
+.nav__items a {
+  text-decoration: none;
+  text-align: center;
+  color: #fff;
 }
-.container{
-    height: 400px;
-    background-color: rgb(185, 210, 210);
-    margin: 15px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.container {
+  height: 300px;
+  background-color: #d2d9e9;
+  margin: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.box{
-    width: 400px;
-    height: 250px;
-    background-color: aquamarine;
+.box {
+  width: 400px;
+  height: 250px;
+  background-color: #85df7f;
 }
-.box__1{
-    margin-left: 150px;
-    box-shadow: 0 0 30px grey;
-
+.box__1 {
+  margin-left: 150px;
+  box-shadow: 0 0 30px grey;
 }
-.box__2{
-    margin-right: 150px;
-    box-shadow: 0 0 30px grey;
+.box__2 {
+  margin-right: 150px;
+  box-shadow: 0 0 30px grey;
 }
-p{
-    padding-left: 10px;
-    font-size: large;
+p {
+  padding-left: 10px;
+  font-size: large;
 }
-h4{
-    padding-left: 10px;
+h4 {
+  padding-left: 10px;
 }
-.container__2{
-    margin: 15px;
-    background-color: rgb(240, 72, 1);
-    height: 400px;
-    display: flex;
-    justify-content: center;
+.container__2 {
+  margin: 15px;
+  background-color: #b94142;
+  height: 400px;
+  display: flex;
+  justify-content: center;
 }
-.box__3{
-    margin: 15px;
-    border: 4px solid green;
-    background-color: antiquewhite;
-    height: 360px;
-    width: 100%;
+.box__3 {
+  margin: 15px;
+  border: 4px solid green;
+  background-color: antiquewhite;
+  height: 360px;
+  width: 100%;
 }

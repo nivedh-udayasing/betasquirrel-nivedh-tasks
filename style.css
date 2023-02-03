@@ -1,0 +1,45 @@
+body {
+  height: 100vh;
+}
+.main__container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 20px 0 0 0;
+}
+.box {
+  width: 500px;
+  height: 250px;
+  background-color: brown;
+  box-shadow: 0 0 20px grey;
+  transition: 0.7s;
+  border-radius: 50px;
+}
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link a {
+  padding: 15px;
+  margin: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: x-large;
+  transition: 0.3s;
+}
+a:hover {
+  color: black;
+  transition: 0.3s;
+}
+.box:hover {
+  padding: 15px;
+  transition: 0.5s;
+}

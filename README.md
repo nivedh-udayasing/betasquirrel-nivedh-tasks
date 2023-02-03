@@ -2,9 +2,9 @@
 
 Assignments from betasquirrel
 
-## demo
+## website link
 
-[live](index.html)
+https://nivedh-udayasing.github.io/betasquirrel-nivedh-tasks/
 
 ## Requirements
 

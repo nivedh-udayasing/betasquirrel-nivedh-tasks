@@ -10,9 +10,9 @@ https://nivedh-udayasing.github.io/betasquirrel-nivedh-tasks/
 
 | requirements                                    | Output                                    |
 | ----------------------------------------------- | ----------------------------------------- |
-| ![Task-1](images\output\task-1requirements.jpg) | ![task-1](images\output\Task-1output.png) |
-| ![Task-2](images\output\Task-2requirement.jpg)  | ![task-2](images\output\Task-2output.png) |
-| ![Task-4](images\output\task-4requirement.jpg)  | ![Task-4](images\output\Task-4output.png) |
+| ![Task-1](images/output/task-1requirements.jpg) | ![task-1](images/output/Task-1output.png) |
+| ![Task-2](images/output/Task-2requirement.jpg)  | ![task-2](images/output/Task-2output.png) |
+| ![Task-4](images/output/task-4requirement.jpg)  | ![Task-4](images/output/Task-4output.png) |
 
 ### reading tasks
 

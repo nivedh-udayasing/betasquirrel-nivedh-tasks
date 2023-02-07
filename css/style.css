@@ -18,7 +18,11 @@ body {
 .box {
   width: 500px;
   height: 250px;
-  background-color: brown;
+  background: linear-gradient(
+    151deg,
+    rgb(156, 167, 219) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
   box-shadow: 0 0 20px grey;
   transition: 0.7s;
   border-radius: 50px;
@@ -34,13 +38,13 @@ body {
   text-decoration: none;
   color: white;
   font-size: x-large;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 a:hover {
   color: black;
   transition: 0.3s;
 }
+
 .box:hover {
   padding: 15px;
-  transition: 0.5s;
 }

@@ -4,7 +4,7 @@ Assignments from betasquirrel
 
 ## website link
 
-https://nivedh-udayasing.github.io/betasquirrel-nivedh-tasks/
+[Live](https://nivedh-udayasing.github.io/betasquirrel-nivedh-tasks/)
 
 ## Requirements
 

@@ -43,7 +43,6 @@ body {
   padding-left: 25px;
   background-color: #625c5c;
 }
-
 .list__item {
   color: white;
   list-style: none;
@@ -115,13 +114,11 @@ body {
 .box-four {
   background-color: #19bcfe;
 }
-
 .sub__container__two {
   height: 250px;
   display: flex;
   justify-content: space-evenly;
 }
-
 .circle-one {
   width: 250px;
   height: 250px;
@@ -191,7 +188,6 @@ body {
   font-size: 16px;
   color: #ececec;
 }
-
 .graph {
   width: 280px;
   height: 200px;

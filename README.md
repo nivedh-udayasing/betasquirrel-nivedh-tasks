@@ -34,6 +34,8 @@ https://nivedh-udayasing.github.io/betasquirrel-nivedh-tasks/
 - [Images](https://www.w3schools.com/html/html_images.asp)
 - [Favicon](https://www.w3schools.com/html/html_favicon.asp)
 - [Tables](https://www.w3schools.com/html/html_tables.asp)
+- [classes](https://www.w3schools.com/html/html_classes.asp)
+- [Id](https://www.w3schools.com/html/html_id.asp)
 
 ## Linux commands
 
@@ -41,6 +43,9 @@ https://nivedh-udayasing.github.io/betasquirrel-nivedh-tasks/
 - `ls` - List contents of a directory, Ex: `ls -a` lists hidden files as well.
 - `pwd` - Display current working directory path
 - `cat` - Display contents of a file Ex: `cat README.md`
+- `mkdir` - create a new directory `mkdir folder name`
+- `clear` - to clear the git bash screen
+- `rm` - to remove a file Ex: `rm file name`
 
 ## Git commands
 
@@ -50,6 +55,8 @@ https://nivedh-udayasing.github.io/betasquirrel-nivedh-tasks/
    `git add README.md` : this will add the readme file we can specify using the file name
 4. `git commit` commit changes to git. `git commit -m "Initial commit"`
 5. `git push` push your local commits to remote repo Ex: `git push origin main`
+6. `git reset` This command undoes all the commits after the specified commit and preserves the changes.Ex:`git reset [commit]`
+7. `git pull` This command fetches and merges changes on the remote server to your working directory
 
 ## Completed tasks
 

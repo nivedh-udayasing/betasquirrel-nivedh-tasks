@@ -57,6 +57,9 @@ https://nivedh-udayasing.github.io/betasquirrel-nivedh-tasks/
 5. `git push` push your local commits to remote repo Ex: `git push origin main`
 6. `git reset` This command undoes all the commits after the specified commit and preserves the changes.Ex:`git reset [commit]`
 7. `git pull` This command fetches and merges changes on the remote server to your working directory
+8. `git --version` to know the version of git
+9. `git status` to identify the changes done in the code and other files in the repo
+10. `git diff` to compare the differents done in the previous files
 
 ## Completed tasks
 

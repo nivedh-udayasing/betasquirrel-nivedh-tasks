@@ -44,7 +44,6 @@ a:hover {
   color: black;
   transition: 0.3s;
 }
-
 .box:hover {
   padding: 15px;
 }

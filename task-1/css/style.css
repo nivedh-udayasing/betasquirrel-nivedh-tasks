@@ -12,9 +12,16 @@ body {
   padding: 3px 3px;
 }
 .logo {
+  display: flex;
+}
+.logo img {
   width: 75px;
   height: 75px;
   padding-left: 4px;
+}
+.logo h2 {
+  color: #d1d8e8;
+  margin-top: 25px;
 }
 .nav__list {
   list-style: none;
@@ -35,11 +42,12 @@ body {
 .container__one {
   background: #d1d8e8;
   margin-top: 20px;
-  padding-bottom: 50px;
+  padding-bottom: 15px;
 }
-h2 {
+h1 {
   padding: 20px 10px;
   margin: 0;
+  text-decoration: underline;
 }
 p {
   color: #030107;
@@ -50,7 +58,7 @@ p {
 .container__two {
   display: flex;
   justify-content: space-between;
-  margin: 10px 0 50px;
+  margin: 30px 0 50px;
 }
 .container__two p {
   color: #030107;
@@ -59,16 +67,16 @@ p {
 .box h4 {
   color: #030107;
   padding: 0 10px;
-  text-align: center;
   font-size: xx-large;
-  margin: 10px 10px;
+  margin: 10px 0px;
 }
 .box {
   background: #d1d8e8;
   width: 500px;
+  padding-bottom: 15px;
 }
 .box__margin {
-  margin: 0 10px;
+  margin: 0 30px;
 }
 @media screen and (max-width: 500px) {
   .container__one {

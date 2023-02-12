@@ -2,6 +2,11 @@
 
 Assignments from betasquirrel
 
+## profiles
+
+- [Linkedin](https://www.linkedin.com/in/nivedh-udayasing-1b5485152/)
+- [StackOverFlow](https://stackoverflow.com/users/19407687/nivedh-udayasing?tab=profile)
+
 ## website link
 
 - [Beta squirrel](https://nivedh-udayasing.github.io/betasquirrel-nivedh-tasks/)

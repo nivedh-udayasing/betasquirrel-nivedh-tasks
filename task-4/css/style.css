@@ -72,9 +72,8 @@ body {
   background: #ececec;
 }
 .box {
-  width: 325px;
+  width: calc(100% / 4);
   height: 180px;
-  background-color: #07cf86;
 }
 .sub__container__one {
   display: flex;
@@ -104,15 +103,19 @@ body {
 }
 .box-one {
   background-color: #09ce82;
+  margin: 0 10px;
 }
 .box-two {
   background-color: #a259ff;
+  margin-right: 10px;
 }
 .box-three {
   background-color: #f34e1d;
+  margin-right: 10px;
 }
 .box-four {
   background-color: #19bcfe;
+  margin-right: 10px;
 }
 .sub__container__two {
   height: 250px;

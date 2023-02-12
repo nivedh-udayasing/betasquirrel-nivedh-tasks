@@ -189,12 +189,9 @@ body {
   color: #ececec;
 }
 .graph {
-  width: 280px;
-  height: 200px;
+  width: 340px;
   border-bottom: 10px solid #615b5b;
   display: flex;
-  justify-content: flex-start;
-  align-items: flex-end;
 }
 .graph__one {
   width: 12px;

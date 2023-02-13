@@ -1,6 +1,5 @@
 body {
   margin: 0;
-  height: 778px;
 }
 .nav__bar {
   background-color: #625c5c;
@@ -39,7 +38,7 @@ body {
 }
 .container__one {
   width: 10%;
-  height: 100%;
+  height: 100vh;
   padding-left: 25px;
   background-color: #625c5c;
 }
@@ -68,7 +67,7 @@ body {
 }
 .container__two {
   width: 90%;
-  height: 100%;
+  height: 100vh;
   background: #ececec;
 }
 .box {
@@ -120,7 +119,7 @@ body {
 .sub__container__two {
   height: 250px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 .circle-one {
   width: 250px;
@@ -130,6 +129,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0 20px;
 }
 .circle-two {
   width: 250px;
@@ -139,6 +139,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0 20px;
 }
 .circle-three {
   width: 221px;
@@ -149,6 +150,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0 20px;
 }
 .sub__circle__one {
   background-color: #09ce82;
@@ -225,4 +227,9 @@ body {
   width: 12px;
   border-bottom: 60px solid #ff7360;
   margin-right: 25px;
+}
+@media screen and (min-width: 1500px) {
+  .list__item li {
+    font-size: 19px;
+  }
 }

@@ -4,6 +4,7 @@ Assignments from betasquirrel
 
 ## profiles
 
+- [GitHub](https://github.com/nivedh-udayasing)
 - [Linkedin](https://www.linkedin.com/in/nivedh-udayasing-1b5485152/)
 - [StackOverFlow](https://stackoverflow.com/users/19407687/nivedh-udayasing?tab=profile)
 
@@ -34,11 +35,31 @@ Assignments from betasquirrel
 - [Quatation](https://www.w3schools.com/html/html_quotation_elements.asp)
 - [Comments](https://www.w3schools.com/html/html_comments.asp)
 - [Colors](https://www.w3schools.com/html/html_colors.asp)
+- [RGB](https://www.w3schools.com/html/html_colors_rgb.asp)
+- [HEX](https://www.w3schools.com/html/html_colors_hex.asp)
+- [HSL](https://www.w3schools.com/html/html_colors_hsl.asp)
 - [Css](https://www.w3schools.com/html/html_css.asp)
 - [Links](https://www.w3schools.com/html/html_links.asp)
+- [Link Colors](https://www.w3schools.com/html/html_links_colors.asp)
+- [Link Bookmarks](https://www.w3schools.com/html/html_links_bookmarks.asp)
 - [Images](https://www.w3schools.com/html/html_images.asp)
+- [Image Map](https://www.w3schools.com/html/html_images_imagemap.asp)
+- [Background Images](https://www.w3schools.com/html/html_images_background.asp)
+- [Picture](https://www.w3schools.com/html/html_images_picture.asp)
 - [Favicon](https://www.w3schools.com/html/html_favicon.asp)
 - [Tables](https://www.w3schools.com/html/html_tables.asp)
+- [Table Borders](https://www.w3schools.com/html/html_table_borders.asp)
+- [Table Sizes](https://www.w3schools.com/html/html_table_sizes.asp)
+- [Table Headers](https://www.w3schools.com/html/html_table_headers.asp)
+- [Padding & Spacing](https://www.w3schools.com/html/html_table_padding_spacing.asp)
+- [Colspan & Rowspan](https://www.w3schools.com/html/html_table_colspan_rowspan.asp)
+- [Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
+- [Table Group](https://www.w3schools.com/html/html_table_colgroup.asp)
+- [HTML List](https://www.w3schools.com/html/html_lists.asp)
+- [Unordered List](https://www.w3schools.com/html/html_lists_unordered.asp)
+- [Ordered List](https://www.w3schools.com/html/html_lists_ordered.asp)
+- [Other Lists](https://www.w3schools.com/html/html_lists_other.asp)
+- [Block & Inline](https://www.w3schools.com/html/html_blocks.asp)
 - [classes](https://www.w3schools.com/html/html_classes.asp)
 - [Id](https://www.w3schools.com/html/html_id.asp)
 
@@ -65,6 +86,9 @@ Assignments from betasquirrel
 8. `git --version` to know the version of git
 9. `git status` to identify the changes done in the code and other files in the repo
 10. `git diff` to compare the differents done in the previous files
+11. `git log` - see commit history
+12. `git config --list` - to see the config added
+13. `git reset --hard` - remove all changes
 
 ## Completed tasks
 

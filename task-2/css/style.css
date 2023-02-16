@@ -33,23 +33,17 @@ body {
   color: #fff;
 }
 .container {
-  height: 300px;
   background-color: #d2d9e9;
   margin: 15px;
+  padding: 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 .box {
   width: 450px;
-  height: 215px;
+  margin: 15px;
   background-color: #85df7f;
-}
-.box__1 {
-  margin-left: 40px;
-}
-.box__2 {
-  margin-right: 40px;
 }
 p {
   padding-left: 10px;
@@ -71,4 +65,24 @@ h3 {
   background-color: antiquewhite;
   height: 250px;
   width: 100%;
+}
+@media screen and (max-width: 1010px) {
+  .container {
+    flex-wrap: wrap;
+    padding: 0;
+  }
+  .box {
+    width: auto;
+  }
+  .box__2 {
+    margin-top: 0;
+  }
+}
+@media screen and (max-width: 630px) {
+  a {
+    display: none;
+  }
+  h2 {
+    font-size: medium;
+  }
 }

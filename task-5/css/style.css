@@ -53,18 +53,18 @@ h2 {
   cursor: pointer;
 }
 .main-container {
-  margin: 1rem;
+  margin: 0.5rem 0;
 }
 .container__one {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 .heading {
   color: #575757;
   font-size: 0.8rem;
-  margin-left: 1rem;
+  margin-left: 0.2rem;
 }
 .add__student {
   text-decoration: none;
@@ -72,10 +72,10 @@ h2 {
   padding: 0.5rem 1rem;
   background: #39b788;
   font-size: 0.8rem;
-  margin-right: 1rem;
+  margin-right: 0.2rem;
 }
 .student__table {
-  margin: 0 1rem;
+  margin: 0 0.2rem;
   overflow: auto;
 }
 table {
@@ -91,7 +91,7 @@ td {
   border-collapse: collapse;
   padding: 0.5rem 1rem;
 }
-@media screen and (min-width: 680px) {
+@media screen and (min-width: 770px) {
   html {
     font-size: 18px;
   }
@@ -121,6 +121,12 @@ td {
     padding: 1rem;
     font-size: 0.8rem;
     margin: 0;
+  }
+  .student__table {
+    margin: 0 1rem;
+  }
+  .add__student {
+    margin-right: 1rem;
   }
 }
 @media screen and (min-width: 1600px) {

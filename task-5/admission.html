@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admission</title>
+    <link rel="stylesheet" href="css/admission.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="logo-container">
+          <a href="/task-5/index.html"
+            ><img src="images/logo.svg" alt="logo"
+          /></a>
+          <h2>One School</h2>
+        </div>
+        <img class="profile__image" src="images/man.png" alt="progilepic" />
+      </nav>
+    </header>
+    <main>
+      <div class="sidebar">
+        <ul class="list">
+          <li class="list__item"><a href="#">STUDENTS</a></li>
+          <li class="list__item"><a href="#">STAFF</a></li>
+          <li class="list__item"><a href="#">EXAMS</a></li>
+        </ul>
+      </div>
+      <div class="main-container">
+        <div class="heading">
+          <a href="#">STUDENT REGISTRATION</a>
+        </div>
+        <form class="form-area">
+          <div class="form-group">
+            <label for="first_name">First Name <span>*</span> :</label>
+            <input
+              id="first_name"
+              type="text"
+              placeholder="Enter your first name"
+              autofocus
+            />
+          </div>
+          <div class="form-group">
+            <label for="text">Last Name <span>*</span> :</label>
+            <input type="text" placeholder="Enter your last name" />
+          </div>
+          <div class="form-group">
+            <label for="">Mobile <span>*</span> :</label>
+            <input type="tel" placeholder="Enter your mobile number" />
+          </div>
+          <div class="form-group">
+            <label for="">Email <span>*</span> :</label>
+            <input type="email" placeholder="Enter your email" />
+          </div>
+          <div class="form-group">
+            <label for="">Branch <span>*</span> :</label>
+            <input
+              type="text"
+              list="branches"
+              placeholder="Select branches you like"
+            />
+            <datalist id="branches">
+              <option>Computer science engineering</option>
+              <option>Mechanical engineering</option>
+              <option>Civil engineering</option>
+            </datalist>
+          </div>
+          <div class="form-group">
+            <label for="">Do You Need Hostel Facility :</label>
+            <input type="radio" name="hostel" id="yes" />
+            <label class="radio__label" for="yes">Yes</label>
+            <input type="radio" name="hostel" id="no" />
+            <label class="radio__label" for="no">No</label>
+          </div>
+          <div class="form-group">
+            <div><label for="">Choose Additional Subjects :</label></div>
+            <div class="check">
+              <input type="checkbox" name="" id="" />
+              <label for="">Cyber Security</label>
+              <input type="checkbox" name="" id="" />
+              <label for="">Artificial Intelligence</label>
+              <input type="checkbox" name="" id="" />
+              <label for="">Block Chain</label>
+              <input type="checkbox" name="" id="" />
+              <label for="">IoT</label>
+              <input type="checkbox" name="" id="" />
+              <label for="">Robotics</label>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="">Permanenet Address <span>*</span></label>
+            <textarea cols="30" rows="5">Enter your full address</textarea>
+          </div>
+          <div class="button">
+            <button type="reset">Clear</button>
+            <button type="submit">Submit</button>
+          </div>
+        </form>
+      </div>
+    </main>
+  </body>
+</html>

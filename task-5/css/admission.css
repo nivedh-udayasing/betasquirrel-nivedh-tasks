@@ -28,7 +28,7 @@ h2 {
   padding: 0.3rem;
 }
 .logo-container h2 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   transform: translateY(-2.5px);
 }
 .profile__image {
@@ -45,7 +45,7 @@ h2 {
   margin: 0;
 }
 .list__item {
-  font-size: 0.8rem;
+  font-size: 1rem;
   padding: 1rem;
 }
 .list__item a {
@@ -64,7 +64,7 @@ span {
   padding-bottom: 0.8rem;
 }
 .heading a {
-  font-size: 0.8rem;
+  font-size: 1rem;
   color: #575757;
   padding-left: 1.3rem;
 }
@@ -104,10 +104,11 @@ button[type="reset"] {
   border-radius: 5rem;
   outline: 0;
 }
-.radio__label {
-  display: inline;
+.radio div {
+  display: flex;
+  align-items: center;
 }
-.check {
+.check div {
   display: flex;
   align-items: center;
 }

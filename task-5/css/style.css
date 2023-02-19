@@ -90,7 +90,7 @@ td {
   border-collapse: collapse;
   padding: 0.5rem 1rem;
 }
-@media screen and (max-width: 389px) {
+@media screen and (max-width: 400px) {
   html {
     font-size: 4px;
   }

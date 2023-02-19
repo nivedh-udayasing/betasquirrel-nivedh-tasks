@@ -14,6 +14,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   border-bottom: 2px solid lightgrey;
+  padding: 0.3rem;
 }
 h2 {
   margin: 0;
@@ -23,15 +24,15 @@ h2 {
   align-items: center;
 }
 .logo-container img {
-  width: 2.5rem;
-  padding: 0.5rem;
+  width: 1.8rem;
+  padding: 0.3rem;
 }
 .logo-container h2 {
   font-size: 1rem;
   transform: translateY(-2.5px);
 }
 .profile__image {
-  width: 4rem;
+  width: 2.8rem;
 }
 .sidebar {
   border-bottom: 2px solid lightgray;
@@ -131,6 +132,6 @@ td {
 }
 @media screen and (min-width: 1600px) {
   html {
-    font-size: 25px;
+    font-size: 22px;
   }
 }

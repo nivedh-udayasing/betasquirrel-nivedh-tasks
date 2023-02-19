@@ -92,7 +92,7 @@ td {
 }
 @media screen and (max-width: 389px) {
   html {
-    font-size: 8px;
+    font-size: 5px;
   }
 }
 @media screen and (min-width: 680px) {

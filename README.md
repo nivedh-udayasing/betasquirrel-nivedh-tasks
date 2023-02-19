@@ -62,6 +62,12 @@ Assignments from betasquirrel
 - [Block & Inline](https://www.w3schools.com/html/html_blocks.asp)
 - [classes](https://www.w3schools.com/html/html_classes.asp)
 - [Id](https://www.w3schools.com/html/html_id.asp)
+- [form](https://www.w3schools.com/css/css_form.asp)
+- [form attributes](https://www.w3schools.com/html/html_forms_attributes.asp)
+- [form elements](https://www.w3schools.com/html/html_form_elements.asp)
+- [form input types](https://www.w3schools.com/html/html_form_input_types.asp)
+- [form input attributes](https://www.w3schools.com/html/html_form_attributes.asp)
+- [form input form attributes](https://www.w3schools.com/html/html_form_attributes_form.asp)
 
 ## Linux commands
 

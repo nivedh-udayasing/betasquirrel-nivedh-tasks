@@ -95,6 +95,7 @@ Assignments from betasquirrel
 11. `git log` - see commit history
 12. `git config --list` - to see the config added
 13. `git reset --hard` - remove all changes
+14. `git stash` - stash your uncommitted changes
 
 ## Completed tasks
 

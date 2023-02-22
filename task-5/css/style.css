@@ -91,6 +91,7 @@ td {
   border: 1px solid lightgray;
   border-collapse: collapse;
   padding: 0.5rem 1rem;
+  text-align: left;
 }
 @media screen and (min-width: 770px) {
   html {

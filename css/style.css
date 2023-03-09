@@ -10,14 +10,7 @@ body {
   justify-content: center;
   align-items: center;
 }
-.heading {
-  display: flex;
-  justify-content: center;
-  color: aliceblue;
-  font-size: 1.5rem;
-}
 .box {
-  margin: 2rem;
   width: 550px;
   height: 250px;
   background: linear-gradient(
@@ -29,13 +22,16 @@ body {
   transition: 0.7s;
   border-radius: 50px;
 }
+h1 {
+  text-align: center;
+  color: aliceblue;
+  margin-bottom: 5rem;
+  margin-top: 3rem;
+}
 .link {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
 }
 .link a {
-  padding: 1.2rem;
   margin: 2rem;
   font-size: 2rem;
   text-decoration: none;

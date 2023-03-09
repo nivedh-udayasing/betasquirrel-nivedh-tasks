@@ -46,7 +46,12 @@ h2 {
 }
 .list__item {
   font-size: 0.8rem;
-  padding: 1rem 1.5rem;
+  padding: 1rem 1rem;
+}
+.list__item img {
+  margin-right: 0.5rem;
+  width: 1rem;
+  height: 1rem;
 }
 .list__item a {
   text-decoration: none;
@@ -92,6 +97,10 @@ td {
   border-collapse: collapse;
   padding: 0.5rem 1rem;
   text-align: left;
+}
+.flex {
+  display: flex;
+  align-items: center;
 }
 @media screen and (min-width: 770px) {
   html {

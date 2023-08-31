@@ -1,0 +1,9 @@
+.fix-position {
+  position: relative;
+}
+.not-selected {
+  position: absolute;
+  top: 25px;
+  left: -78px;
+  width: auto;
+}

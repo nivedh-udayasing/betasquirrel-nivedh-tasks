@@ -1,3 +1,4 @@
+let displayValue = document.getElementById("result");
 function display(value) {
   document.getElementById("result").value += value;
 }

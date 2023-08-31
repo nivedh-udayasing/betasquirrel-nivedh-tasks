@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#sidebar {
+  background-color: rgb(96, 98, 98) !important;
+  height: calc(100vh - 57px);
+  width: 200px;
+}
+#sidebar a {
+  color: #fff;
+}
+#sidebar a.active {
+  text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+  #sidebar {
+    width: 50px;
+  }
+}
+.main-content {
+  max-height: calc(100vh - 57px);
+  overflow: auto;
+}

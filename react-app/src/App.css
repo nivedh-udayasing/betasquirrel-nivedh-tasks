@@ -1,0 +1,35 @@
+:root {
+  --space: 15px;
+  --background--color: #333;
+  --text--color: #fff;
+  --hover--color: aquamarine;
+}
+.sidebar {
+  background-color: var(--background--color);
+  width: 200px;
+  height: calc(100vh - 56px);
+}
+
+.sidebar a {
+  color: var(--text--color);
+}
+.sidebar a.active {
+  text-decoration: underline;
+}
+.sidebar a:hover {
+  color: var(--hover--color);
+}
+.sidebar .nav-link span {
+  padding-left: 15px;
+}
+.sidebar .nav-link svg {
+  width: 30px;
+}
+.navbar-brand img {
+  margin-right: var(--space);
+}
+@media (max-width: 767px) {
+  .sidebar {
+    width: 50px;
+  }
+}

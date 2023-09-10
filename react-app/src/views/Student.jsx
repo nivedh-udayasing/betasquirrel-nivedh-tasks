@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import Main from "../layouts/Main";
-import { Button, Table, Row, Col } from "react-bootstrap";
-import { Link } from "react-router-dom";
-import StudentForm from "./StudentForm";
+import { Table, Row, Col } from "react-bootstrap";
+import StudentForm from "../components/StudentForm";
 const Student = () => {
   const [students, setStudents] = useState([]);
   setTimeout(() => {
@@ -19,6 +18,9 @@ const Student = () => {
         <Row className="mt-2">
           <Col>
             <h2>Students</h2>
+            <div className="mb-3 float-end">
+              <StudentForm />
+            </div>
             <Table striped bordered hover>
               <thead>
                 <tr>

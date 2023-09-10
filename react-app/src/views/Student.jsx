@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import Main from "../layouts/Main";
-import { Table, Row, Col } from "react-bootstrap";
+import { Button, Table, Row, Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
+import StudentForm from "./StudentForm";
 const Student = () => {
   const [students, setStudents] = useState([]);
   setTimeout(() => {
